@@ -11,7 +11,7 @@ Key Results:
 Instead of just fitting a model, I focused on making the data "model-ready":
 1)Handling Outliers: Used IQR-based Capping to stabilize features like median_income and rooms_per_household, ensuring extreme values didn't skew the results.
 2)Feature Engineering: Raw counts like total_rooms weren't enough. 
-
+ 
 I engineered new ratios to capture density:
 1) rooms_per_household (Average rooms per family)
 2) bedrooms_per_room (Ratio of bedrooms to total rooms)
