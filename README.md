@@ -7,7 +7,7 @@ Key Results:
 1) Random Forest $R^2$ Score: 0.8146 (81.4% variance explained)
 2) Random Forest RMSE: $50,356.51
 3) Baseline Comparison: Outperformed Linear Regression, which only achieved an $R^2$ of 0.676.
- 
+    
 Instead of just fitting a model, I focused on making the data "model-ready":
 1)Handling Outliers: Used IQR-based Capping to stabilize features like median_income and rooms_per_household, ensuring extreme values didn't skew the results.
 2)Feature Engineering: Raw counts like total_rooms weren't enough. 
