@@ -25,5 +25,3 @@ Categorical Encoding: Handled ocean_proximity using One-Hot Encoding to maintain
 
 FUTURE SCOPE:
 1) Streamlit Integration: Working on a web app to make the model interactive for users.
-
-
