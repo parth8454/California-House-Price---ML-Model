@@ -2,7 +2,7 @@
 
 Welcome to my first machine learning project! In this repository, I have built a Random Forest Regression model to predict median house prices in California. 
 By focusing heavily on Data Preprocessing and Feature Engineering, I was able to achieve a significant performance boost over the baseline model.
-
+ 
 Key Results:
 1) Random Forest $R^2$ Score: 0.8146 (81.4% variance explained)
 2) Random Forest RMSE: $50,356.51
